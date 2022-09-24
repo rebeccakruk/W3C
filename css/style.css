@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: goldenrod;
+    border: 2px solid black;
+}
+
+main {
+    border: 20px solid black;
+}
+
+img {
+    width: 100px;
+
+}
+#gridcontainer {
+    display: grid;
+    border: 2px solid black;
+    grid-template-columns: 25%;
+}
+#chucks {
+    background-color: red;
+    border: 2px solid black;
+}
+
+#two {
+    background-color: green;
+}
+
+#three {
+    background-color: blue;
+}
+
+#four {
+    background-color: blueviolet;
+}
